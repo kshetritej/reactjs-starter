@@ -4,7 +4,7 @@ mkdir <project_name>
 
 cd <project_name>
 
-git clone https://github.com/28softwares/rest-nodejs-starter .
+git clone https://github.com/28softwares/reactjs-starter .
 
 git remote remove origin
 
